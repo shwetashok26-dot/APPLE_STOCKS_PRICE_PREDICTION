@@ -6,7 +6,7 @@ Time Series Forecasting using SARIMA
 
 
 <p align="left" style="font-size:15px; font-weight:500;">
-<b>Author:</b> Akritichhaya
+<b>Author:</b> Shweta C 
 </p>
 
 <p align="left">
